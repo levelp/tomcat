@@ -10,6 +10,7 @@ catalina.bat run
 
 Добавление пользователя
 -----------------------
+В файле tomcat\conf\tomcat-users.xml
 ``` xml
   <role rolename="manager-gui"/>
   <user username="admin" password="123" roles="manager-gui"/>
