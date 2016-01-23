@@ -1,7 +1,9 @@
 # tomcat
-Tomcat 8.0.20
+Tomcat 8.0.30
 
-Запуск
+Распаковать .zip архив в папку, например в D:\tomcat
+
+Запуск tomcat - переходим в каталог D:\tomcat
 ``` cmd
 catalina.bat run
 ```
